@@ -13,7 +13,7 @@ Skilled in application development, maintenance, and problem-solving, with a sol
 👥 Projects and Initiatives:
 
 - In 2023, I volunteered for a weather and climate monitoring project at Softex-PE. I am a scholarship holder for the project.
-- I developed SalesTracker, a personal project, to manage sales, register customers, sellers, and products, and to generate detailed sales reports.
+- In 2024 I developed SalesTracker, a personal project, to manage sales, register customers, sellers, and products, and to generate detailed sales reports.
 <!--
 **JoseM4ria/JoseM4ria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
