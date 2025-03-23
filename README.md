@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a brazilian based career-transitioning professional with a strong focus on web development using Python and Django.
+I'm a brazilian based professional with a strong focus on web development using Python and Django.
 Skilled in application development, maintenance, and problem-solving, with a solution-driven mindset. 
 
 ### 🌱What I'm learning:
