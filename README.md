@@ -9,8 +9,9 @@ Skilled in development, maintenance, version control, and problem-solving, with 
 ### 🛠️ Tools and Technologies:
 ***
 ![My Skills](https://skillicons.dev/icons?i=pycharm,git,gitlab,postgresql,mysql)
+***
 
-👥 Projects and Initiatives:
+### 👥 Projects and Initiatives:
 
 - In 2023, I volunteered for a weather and climate monitoring project at Softex-PE. I am a scholarship holder for the project.
 - In 2024 I developed SalesTracker, a personal project, to manage sales, register customers, sellers, and products, and to generate detailed sales reports.
