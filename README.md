@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm a brazilian based professional with a strong focus on web development using Python. I use frameworks like Django, FastAPI and Flask.
-Skilled in application development, maintenance, and problem-solving, with a solution-driven mindset. 
+I'm a brazilian based professional with a strong focus on web development using Python. Frameworks like Django, FastAPI and Flask are part of my daily work..
+Skilled in development, maintenance, version control, and problem-solving, with a solution-driven mindset. 
 
 ### 🌱What I'm learning:
 ***
