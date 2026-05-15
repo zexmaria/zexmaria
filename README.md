@@ -1,4 +1,4 @@
-# Hi there, I'm Maria 👋
+# Hi there, I'm José 👋
 
 ### 🧑‍💻 About Me
 
